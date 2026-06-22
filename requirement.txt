@@ -4,3 +4,5 @@ plotly.express
 plotly
 statsmodels
 numpy
+plotly.graph_objects 
+plotly.subplots 
